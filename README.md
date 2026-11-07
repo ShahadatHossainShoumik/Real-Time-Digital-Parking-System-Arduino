@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 Real-Time Digital Parking Slot Monitoring & Control System
+#  Real-Time Digital Parking Slot Monitoring & Control System
 ### *Towards Sustainable Cities: Microcontroller-Driven Automated Gate Control & Occupancy Tracking System*
 
 ![C++](https://img.shields.io/badge/Embedded_C++-Arduino_INO-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
